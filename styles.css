@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f0f0;
+    margin: 40px;
+    font-family: 'Roboto', sans-serif;
+
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+.hearder-itens{
+    margin-left: 16px;
+    margin-right: 24px;
+}
+.about-me {
+    width: 35%;
+    margin-top: 12%;
+    margin-left: 18%;
+}
+.social-media-icons{
+    margin-left: 18%;
+}
+.name-text{
+    font-family: 'Lato', sans-serif;
+    color: #ff4654;
+    font-weight: 900;
+}
+.role-text{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+
+}
+.fab{
+    font-size: 20px;
+    width: 20px;
+    text-decoration: none; 
+}
+.fab:hover{
+    opacity: 0.5;
+}
+a:visited {
+    color: #000000;
+}
